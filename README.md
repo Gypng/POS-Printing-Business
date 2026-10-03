@@ -1,6 +1,6 @@
-# PrintPOS
+# Dastrict Digital Printmedia
 
-A customizable point-of-sale web app for a printing business. It runs entirely in the browser with plain HTML, CSS, and JavaScript, uses Bootstrap 5 for the layout, and saves data with localStorage, so no server or database is needed.
+A customizable point-of-sale web app for a Dastrict Didgital Printmedia and in completion of our IT Subject System, Analysis and Design. It runs entirely in the browser with plain HTML, CSS, and JavaScript, uses Bootstrap 5 for the layout, and saves data with localStorage, so no server or database is needed.
 
 ## Features
 
